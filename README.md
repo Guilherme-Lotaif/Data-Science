@@ -33,7 +33,7 @@ Welcome to the Data Science Toolbox repository – the hub for powerful Python-b
 
 ## Contributions
 
-Contributions are welcome! Whether you're fixing a bug, implementing a new feature, or just polishing up the documentation, your efforts are highly appreciated.
+Contributions are welcome! Whether you're fixing a bug or implementing a new feature, your efforts are highly appreciated.
 
 ## License
 
