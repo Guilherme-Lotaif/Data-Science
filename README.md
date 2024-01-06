@@ -35,3 +35,8 @@ Welcome to the Data Science Toolbox repository – the hub for powerful Python-b
 
 Contributions are welcome! Whether you're fixing a bug, implementing a new feature, or just polishing up the documentation, your efforts are highly appreciated.
 
+## License
+
+This project is licensed under the MIT License - [LICENSE](https://github.com/GuilhermeLotaif01/Data-Science/blob/main/LICENSE).
+
+
