@@ -17,7 +17,7 @@ Welcome to the Data Science Toolbox repository – the hub for powerful Python-b
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/GuilhermeLotaif01/Data-Science.git
-``
+   
 2. **Explore & Contribute:**
 - Dive into Jupyter Notebooks and Python scripts to discover various data science functionalities.
 - Contribute your insights, improvements, or new features through pull requests.
