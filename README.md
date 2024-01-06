@@ -16,4 +16,22 @@ Welcome to the Data Science Toolbox repository – the hub for powerful Python-b
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/data-science-toolbox.git
+   git clone https://github.com/GuilhermeLotaif01/Data-Science.git
+``
+2. **Explore & Contribute:**
+- Dive into Jupyter Notebooks and Python scripts to discover various data science functionalities.
+- Contribute your insights, improvements, or new features through pull requests.
+
+## Dependencies
+
+- `Pandas`
+- `Scikit-Learn`
+- `Scipy`
+- `Statsmodels`
+- `Matplotlib`
+- `Seaborn`
+
+## Contributions
+
+Contributions are welcome! Whether you're fixing a bug, implementing a new feature, or just polishing up the documentation, your efforts are highly appreciated.
+
