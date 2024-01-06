@@ -37,6 +37,6 @@ Contributions are welcome! Whether you're fixing a bug or implementing a new fea
 
 ## License
 
-This project is licensed under the MIT License - [LICENSE](https://github.com/Guilherme-Lotaif/Data-Science/blob/main/LICENSE).
+These projects are licensed under the MIT License - [LICENSE](https://github.com/Guilherme-Lotaif/Data-Science/blob/main/LICENSE).
 
 
